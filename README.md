@@ -12,7 +12,7 @@
     2. SECRET KEY:- 
     3. BUCKET NAME:- 
     4. AWS REGION:- ap-south-1
-**6. After completion of the above mentioned task please give access to the following to your private repository:-** 
+6. **After completion of the above mentioned task please give access to the following to your private repository:-** 
     1. dorabhai
     2. aroopkumargochhayat
 
@@ -25,7 +25,7 @@
 2. If you're using MEAN/MERN stack, try connecting to the mysql database and create the dependent dropdown by using appropriate SQL queries.
 3. If you're using LAMP stack, try using JQuery/AJAX to do the same.
 4. Push the SQL dump and codebase to your private repository.
-**4. After completion of the above mentioned task please give access to the following to your private repository:-** 
+5. **After completion of the above mentioned task please give access to the following to your private repository:-** 
     1. dorabhai
     2. aroopkumargochhayat
 ### DELIVERABLES
