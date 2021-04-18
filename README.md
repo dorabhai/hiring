@@ -7,12 +7,7 @@
    **Hint:- Use AWS Multipart uploader available in SDK to split the file into chunks and upload to S3.**
 3. Create a progress bar denoting the file upload progress in the webpage.
 4. Push the code base to your private repo and don't mention the ACCESS KEYS/SECRET KEYS in the codebase as exposing those would risk the company's cloud account.
-5. AWS details to be used in codebase:- 
-    1. ACCESS KEY:- 
-    2. SECRET KEY:- 
-    3. BUCKET NAME:- 
-    4. AWS REGION:- ap-south-1
-6. **After completion of the above mentioned task please give access to the following to your private repository:-** 
+5. **After completion of the above mentioned task please give access to the following to your private repository:-** 
     1. dorabhai
     2. aroopkumargochhayat
 
