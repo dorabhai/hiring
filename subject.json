@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_name": "ZOOLOGY",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  }
+},{
+  "_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_name": "BOTANY",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  }
+},{
+  "_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_name": "MATHEMATICS",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  }
+},{
+  "_id": {
+    "$oid": "6182d435a1f2496e7c45feaa"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_name": "PHYSICS",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  }
+},{
+  "_id": {
+    "$oid": "6182d435a1f2496e7c45feab"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_name": "CHEMISTRY",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  }
+},{
+  "_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_name": "GEOLOGY",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  }
+},{
+  "_id": {
+    "$oid": "6182d435a1f2496e7c45fead"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_name": "ITM",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  }
+}]

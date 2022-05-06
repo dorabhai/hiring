@@ -1,0 +1,6805 @@
+[{
+  "_id": {
+    "$oid": "618365616636457360cf8a2f"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45feb8"
+  },
+  "topic_name": "KINGDOM PROTISTA",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a30"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45feb8"
+  },
+  "topic_name": "PHYLUM PORIFERA AND AND EVOLUTION OF METAZOTA",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a31"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45feb8"
+  },
+  "topic_name": "PHYLUM CNIDARIA AND PHYLUM CETENOPHORA",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a32"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45feb8"
+  },
+  "topic_name": "PHYLUM PLATYHELMINTHES",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a33"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45feb8"
+  },
+  "topic_name": "PHYLUM NEMATHELMINTHES",
+  "topic_code": "U5",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a34"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45feb9"
+  },
+  "topic_name": "INTRODUCTI ON TO ECOLOGY AND ECOSYSTEM",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a35"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45feb9"
+  },
+  "topic_name": "POPULATION",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a36"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45feb9"
+  },
+  "topic_name": "COMMUNITY",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a37"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45feb9"
+  },
+  "topic_name": "CONSERVATION OF BIODIVERSITY",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a38"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45feb9"
+  },
+  "topic_name": "BIOSTATISTICS",
+  "topic_code": "U5",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a39"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45feba"
+  },
+  "topic_name": "PHYLUM ANNELIDA",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a3a"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45feba"
+  },
+  "topic_name": "PHYLUM ARTHROPODA",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a3b"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45feba"
+  },
+  "topic_name": "PHYLUM ONYCHOPHORA",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a3c"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45feba"
+  },
+  "topic_name": "PHYLUM MOLLUSCA",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a3d"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45feba"
+  },
+  "topic_name": "PHYLUM ECHINODERMATA",
+  "topic_code": "U5",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a3e"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45febb"
+  },
+  "topic_name": "DIGESTIVE SYSTEM",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a3f"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45febb"
+  },
+  "topic_name": "RESPIRATORY SYSTEM",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a40"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45febb"
+  },
+  "topic_name": "EXCRETORY SYSTEM",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a41"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45febb"
+  },
+  "topic_name": "BLOOD",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a42"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45febb"
+  },
+  "topic_name": "HEART",
+  "topic_code": "U5",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a43"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45febc"
+  },
+  "topic_name": "PROTOCHORDATA AND ORIGIN OF CHORDATES",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a44"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45febc"
+  },
+  "topic_name": "INTRODUCTION TO VERTEBRATE AND AGNATHA",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a45"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45febc"
+  },
+  "topic_name": "PISCES AND AMPHIBIA",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a46"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45febc"
+  },
+  "topic_name": "REPITILIA AND APES",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a47"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45febc"
+  },
+  "topic_name": "MAMMALS AND ZOOGEOGRAPHY",
+  "topic_code": "U5",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a48"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45febd"
+  },
+  "topic_name": "TISSUES AND GLANDS, BONE AND CARTILAGE",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a49"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45febd"
+  },
+  "topic_name": "NERVOUS SYSTEM",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a4a"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45febd"
+  },
+  "topic_name": "MUSCLE",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a4b"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45febd"
+  },
+  "topic_name": "REPRODUCTIVE SYSTEM",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a4c"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45febd"
+  },
+  "topic_name": "ENDOCRINE SYSTEM",
+  "topic_code": "U5",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a4d"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45febe"
+  },
+  "topic_name": "INTEGUMENTARY SYSTEM AND SKELETAL SYSTEM",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a4e"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45febe"
+  },
+  "topic_name": "DIGESTIVE AND RESPIRATORY SYSTEM",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a4f"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45febe"
+  },
+  "topic_name": "CIRCULATORY SYSTEM",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a50"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45febe"
+  },
+  "topic_name": "URINOGENITAL SYSTEM",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a51"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45febe"
+  },
+  "topic_name": "NERVOUS SYSTEM AND SENSE ORGANS",
+  "topic_code": "U5",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a52"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45febf"
+  },
+  "topic_name": "BIOMOLECULES",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a53"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45febf"
+  },
+  "topic_name": "CARBOHYDRATE METABOLISM",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a54"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45febf"
+  },
+  "topic_name": "LIPID METABOLISM",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a55"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45febf"
+  },
+  "topic_name": "PROTEIN METABOLISM",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a56"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45febf"
+  },
+  "topic_name": "ENZYMES AND OXIDATIVE PHOSPHORYLATION",
+  "topic_code": "U5",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a57"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45fec0"
+  },
+  "topic_name": "CELLS AND PLASMA MEMBRANE",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a58"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45fec0"
+  },
+  "topic_name": "ENDOMEMBRANE SYSTEM MITOCHONDRIA AND PEROXISOMES",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a59"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45fec0"
+  },
+  "topic_name": "CYTOSKELETON AND NUCLEUS",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a5a"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45fec0"
+  },
+  "topic_name": "APOPTOSIS",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a5b"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45fec1"
+  },
+  "topic_name": "MENDELIAN GENETICS AND ITS EXTENSION",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a5c"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45fec1"
+  },
+  "topic_name": "LINKAGE CROSSING OVER AND CHROMOSOMAL MAPPING",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a5d"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45fec1"
+  },
+  "topic_name": "MUTATIONS",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a5e"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45fec1"
+  },
+  "topic_name": "SEX DETERMINATION AND QUANTITATIVE GENETICS",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a5f"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45fec1"
+  },
+  "topic_name": "EXTRA-CHROMOSOMAL INHERITANCE",
+  "topic_code": "U5",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a60"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45fec2"
+  },
+  "topic_name": "INTRODUCTION",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a61"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45fec2"
+  },
+  "topic_name": "EARLY EMBRYONIC DEVELOPMENT",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a62"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45fec2"
+  },
+  "topic_name": "LATE EMBROYNIC DEVELOPMENT",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a63"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45fec2"
+  },
+  "topic_name": "POST EMBROYNIC DEVELOPMENT",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a64"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45fec2"
+  },
+  "topic_name": "IMPLICATIONS OF DEVELOPMENTAL BIOLOGY",
+  "topic_code": "U5",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a65"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45fec3"
+  },
+  "topic_name": "NUCLEIC ACIDS AND DNA REPLICATION",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a66"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45fec3"
+  },
+  "topic_name": "TRANSCRIPT ION",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a67"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45fec3"
+  },
+  "topic_name": "TRANSLATION",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a68"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45fec3"
+  },
+  "topic_name": "POST TRANSCRIPTIONAL MODIFICATIONS AND PROCESSING OF EUKARYOTIC RNA",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a69"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45fec3"
+  },
+  "topic_name": "GENE REGULATION AND REGULATORY RNAs",
+  "topic_code": "U5",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a6a"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45fec4"
+  },
+  "topic_name": "IMMUNE SYSTEM AND IMMUNITY",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a6b"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45fec4"
+  },
+  "topic_name": "ANTIGENS",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a6c"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45fec4"
+  },
+  "topic_name": "IMMUNOGLOBULINS",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a6d"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45fec4"
+  },
+  "topic_name": "MAJOR HISTOCOMPATIBILITY COMPLEX AND COMPLEMENT SYSTEM",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a6e"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45fec4"
+  },
+  "topic_name": "CYTOKINES HYPERSENSITIVITY AND VACCINE",
+  "topic_code": "U5",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a6f"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45fec5"
+  },
+  "topic_name": "HISTORY OF LIFE THEORIES OF EVOLUTION AND EXTINCTION",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a70"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45fec5"
+  },
+  "topic_name": "EVIDENCES OF EVOLUTION",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a71"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45fec5"
+  },
+  "topic_name": "PROCESSES OF EVOLUTIONARY CHANGE",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a72"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45fec5"
+  },
+  "topic_name": "PRINCIPLES OF POPULATION GENETICS",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "618365616636457360cf8a73"
+  },
+  "paper_id": {
+    "$oid": "6182d832a1f2496e7c45fec5"
+  },
+  "topic_name": "SPECIES CONCEPT AND EVOLUTION ABOVE SPECIES LEVEL",
+  "topic_code": "U5",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea7"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8aca"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8ab2"
+  },
+  "topic_name": "INTRODUCTION TO MICROBIAL WORLD",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8acb"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8ab2"
+  },
+  "topic_name": "BACTERIA",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8acc"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8ab2"
+  },
+  "topic_name": "ALGAE",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8acd"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8ab2"
+  },
+  "topic_name": "CYANOPHYTA,CHLOROPHYTA",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8ace"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8ab2"
+  },
+  "topic_name": "CHAROPHYTA,XANTHOPHYTA,PHAEOPHYTA,RHODOPHYTA",
+  "topic_code": "U5",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8acf"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8ab3"
+  },
+  "topic_name": "BIOMOLECULES,CARBOHYDRATES,LIPIDS,PROTEINS,NUCLEIC ACIDS",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8ad0"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8ab3"
+  },
+  "topic_name": "BIOENERGENETICS,ENZYMES",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8ad1"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8ab3"
+  },
+  "topic_name": "THE CELL",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8ad2"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8ab3"
+  },
+  "topic_name": "CELL ORGANELLES,CYTOSKELETON",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8ad3"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8ab3"
+  },
+  "topic_name": "CELL DIVISION",
+  "topic_code": "U5",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8ad4"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8ab4"
+  },
+  "topic_name": "INTRODUCTION TO TRUE FUNGI,ZYGOMYCOTA,ASCOMYCOTA",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8ad5"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8ab4"
+  },
+  "topic_name": "BASIDIOMYCOTA,ALLIED FUNGI,OOMYCOTA",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8ad6"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8ab4"
+  },
+  "topic_name": "SYMBIOTIC ASSOCIATIONS",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8ad7"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8ab4"
+  },
+  "topic_name": "APPLIED MYCOLOGY",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8ad8"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8ab4"
+  },
+  "topic_name": "PHYTOPATHOLOGY",
+  "topic_code": "U5",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8ad9"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8ab5"
+  },
+  "topic_name": "INTRODUCTION",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8ada"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8ab5"
+  },
+  "topic_name": "BRYOPHYTES",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8adb"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8ab5"
+  },
+  "topic_name": "PTERIDOPHYTES",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8adc"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8ab5"
+  },
+  "topic_name": "GYMNOSPERMS",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8add"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8ab5"
+  },
+  "topic_name": "FOSSILS",
+  "topic_code": "U5",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8ade"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8ab6"
+  },
+  "topic_name": "INTRODUCTION AND SCOPE OF PLANT ANATOMY,TISSUES",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8adf"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8ab6"
+  },
+  "topic_name": "STEAM,LEAF,ROOT",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8ae0"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8ab6"
+  },
+  "topic_name": "VASCULAR CAMBIUM,WOOD,PERIDERM",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8ae1"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8ab6"
+  },
+  "topic_name": "ADAPTIVE AND PROTECTIVE SYSTEMS",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8ae2"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8ab6"
+  },
+  "topic_name": "SECRETORY SYSTEM",
+  "topic_code": "U5",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8ae3"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8ab7"
+  },
+  "topic_name": "ORIGIN OF CULTIVATED PLANTS",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8ae4"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8ab7"
+  },
+  "topic_name": "CEREALS,LEGUMES",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8ae5"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8ab7"
+  },
+  "topic_name": "SPICES,BEVERAGES,TOBACOO",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8ae6"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8ab7"
+  },
+  "topic_name": "OILS & FATS,ESSENTIAL OILS",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8ae7"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8ab7"
+  },
+  "topic_name": "NATURAL RUBBER",
+  "topic_code": "U5",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8ae8"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8ab8"
+  },
+  "topic_name": "MENDELIAN GENETICS AND ITS EXTENSION MENDELISM",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8ae9"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8ab8"
+  },
+  "topic_name": "EXTRACHROMOSOMALINHERITANCE",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8aea"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8ab8"
+  },
+  "topic_name": "LINKAGE,CROSSING OVER AND CHROMOSOME MAPPING",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8aeb"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8ab8"
+  },
+  "topic_name": "VARIATION IN CHROMOSE NUMBER AND STRUCTURE",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8aec"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8ab8"
+  },
+  "topic_name": "FINE STRUCTURE OF GENE",
+  "topic_code": "U5",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8aed"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8ab9"
+  },
+  "topic_name": "NUCLEIC ACIDS",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8aee"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8ab9"
+  },
+  "topic_name": "THE STRUCTURES OF DNA AND RNA/GENETIC MATERIAL",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8aef"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8ab9"
+  },
+  "topic_name": "CENTRAL DOGMA AND GENETIC CODE",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8af0"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8ab9"
+  },
+  "topic_name": "TRANSLATION",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8af1"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8ab9"
+  },
+  "topic_name": "REGULATION OF TRANSCRIPTION IN PROKARYOTES AND EUKARYOTES",
+  "topic_code": "U5",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8af2"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8aba"
+  },
+  "topic_name": "INTRODUCTION CONCEPT OF ECOLOGY",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8af3"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8aba"
+  },
+  "topic_name": "SOIL,WATER,LIGHT,TEMPRETURE,WIND AND FIRE",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8af4"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8aba"
+  },
+  "topic_name": "BIOTIC INTERACTIONS",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8af5"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8aba"
+  },
+  "topic_name": "ECOLOGICAL PYRAMIDS",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8af6"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8aba"
+  },
+  "topic_name": "PHYTOGEOGRAPHY",
+  "topic_code": "U5",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8af7"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8abb"
+  },
+  "topic_name": "PLANT IDENTIFICATION",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8af8"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8abb"
+  },
+  "topic_name": "TAXONOMIC HIRARCHY,BOTANICAL NOMENCLATURE",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8af9"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8abb"
+  },
+  "topic_name": "SYSTEMATICS-AN INTERDISCIPLINARY SCIENCE,SYSTEMS OF CLASSIFICATION",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8afa"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8abb"
+  },
+  "topic_name": "BIOMETRICS NUMERICAL TAXONOMY AND CLADISTICS",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8afb"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8abb"
+  },
+  "topic_name": "PHYLOGENY OF ANGIOSPERMS",
+  "topic_code": "U5",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8afc"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8abc"
+  },
+  "topic_name": "INTRODUCTION",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8afd"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8abc"
+  },
+  "topic_name": "ANTHER POLLEN BIOLOGY",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8afe"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8abc"
+  },
+  "topic_name": "OVULE ENDOSPERM",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8aff"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8abc"
+  },
+  "topic_name": "POLLINATION AND FERTILIZATION SELF INCOMPATIBILITY",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8b00"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8abc"
+  },
+  "topic_name": "SEED POLYEMBRYONY AND APOMIXES GERMLINE TRANSFORMATION",
+  "topic_code": "U5",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8b01"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8abd"
+  },
+  "topic_name": "PLANT WATER RELATIONSHIP TRANSLOCATION IN THE PHLOEM",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8b02"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8abd"
+  },
+  "topic_name": "MINERAL NUTRITION",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8b03"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8abd"
+  },
+  "topic_name": "NUTRIENT UPTAKE",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8b04"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8abd"
+  },
+  "topic_name": "PLANT GROWTH REGULATORS",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8b05"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8abd"
+  },
+  "topic_name": "PHYSIOLOGY OF FLOWERING PHYTOCHROME",
+  "topic_code": "U5",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8b06"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8abe"
+  },
+  "topic_name": "CONCEPT OF METABOLISM, CARBOHYDRATE METABOLISM",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8b07"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8abe"
+  },
+  "topic_name": "CARBON ASSIMILATION",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8b08"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8abe"
+  },
+  "topic_name": "CARBON OXIDATION,ATP-SYNTHESIS",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8b09"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8abe"
+  },
+  "topic_name": "LIPID METABOLISM",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8b0a"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8abe"
+  },
+  "topic_name": "NITROGEN METABOLISM,MECHANISMS OF SIGNAL TRANSDUCTION",
+  "topic_code": "U5",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8b0b"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8abf"
+  },
+  "topic_name": "PLANT TISSUE CULTURE",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8b0c"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8abf"
+  },
+  "topic_name": "TOTIPOTENCY,ORGANOGENESIS,EMBRYOGENESIS",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8b0d"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8abf"
+  },
+  "topic_name": "RECOMBINANT DNA TECHNOLOGY-I",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8b0e"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8abf"
+  },
+  "topic_name": "RECOMBINANT DNA TECHNOLOGY-II",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "61837ff06636457360cf8b0f"
+  },
+  "paper_id": {
+    "$oid": "61837b9a6636457360cf8abf"
+  },
+  "topic_name": "APPLICATIONS OF BIOTECHNOLOGY",
+  "topic_code": "U5",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea8"
+  }
+},{
+  "_id": {
+    "$oid": "6183cb7b6636457360cf8b32"
+  },
+  "paper_id": {
+    "$oid": "6183816f6636457360cf8b16"
+  },
+  "topic_name": "HYPERBOLIC FUNCTION",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  }
+},{
+  "_id": {
+    "$oid": "6183cb7b6636457360cf8b33"
+  },
+  "paper_id": {
+    "$oid": "6183816f6636457360cf8b16"
+  },
+  "topic_name": "REDUCTION FORMULA",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  }
+},{
+  "_id": {
+    "$oid": "6183cb7b6636457360cf8b34"
+  },
+  "paper_id": {
+    "$oid": "6183816f6636457360cf8b16"
+  },
+  "topic_name": "TECHNIQUES OF SKETCHING CONICS",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  }
+},{
+  "_id": {
+    "$oid": "6183cb7b6636457360cf8b35"
+  },
+  "paper_id": {
+    "$oid": "6183816f6636457360cf8b16"
+  },
+  "topic_name": "VECTOR TRIPLE PRODUCTION & FUNCTIONS",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  }
+},{
+  "_id": {
+    "$oid": "6183cb7b6636457360cf8b36"
+  },
+  "paper_id": {
+    "$oid": "6183816f6636457360cf8b17"
+  },
+  "topic_name": "POLAR REPRESENTATION OF COMPLEX NUMBERS",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  }
+},{
+  "_id": {
+    "$oid": "6183cb7b6636457360cf8b37"
+  },
+  "paper_id": {
+    "$oid": "6183816f6636457360cf8b17"
+  },
+  "topic_name": "EQUIVALENCE RELATIONS",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  }
+},{
+  "_id": {
+    "$oid": "6183cb7b6636457360cf8b38"
+  },
+  "paper_id": {
+    "$oid": "6183816f6636457360cf8b17"
+  },
+  "topic_name": "SYSTEM OF LINEAR EQUATION",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  }
+},{
+  "_id": {
+    "$oid": "6183cb7b6636457360cf8b39"
+  },
+  "paper_id": {
+    "$oid": "6183816f6636457360cf8b17"
+  },
+  "topic_name": "INTRODUCTION TO LINEAR TRANSFROMATION",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  }
+},{
+  "_id": {
+    "$oid": "6183cb7b6636457360cf8b3a"
+  },
+  "paper_id": {
+    "$oid": "6183816f6636457360cf8b18"
+  },
+  "topic_name": "REVIEW OF ALGEBRIC & UNDER PROPERTIES OF IR",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  }
+},{
+  "_id": {
+    "$oid": "6183cb7b6636457360cf8b3b"
+  },
+  "paper_id": {
+    "$oid": "6183816f6636457360cf8b18"
+  },
+  "topic_name": "IDEA OF COUNTABLE",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  }
+},{
+  "_id": {
+    "$oid": "6183cb7b6636457360cf8b3c"
+  },
+  "paper_id": {
+    "$oid": "6183816f6636457360cf8b18"
+  },
+  "topic_name": "SUBSEQUENCE",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  }
+},{
+  "_id": {
+    "$oid": "6183cb7b6636457360cf8b3d"
+  },
+  "paper_id": {
+    "$oid": "6183816f6636457360cf8b18"
+  },
+  "topic_name": "ABSOLUTE CONVERGENCE",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  }
+},{
+  "_id": {
+    "$oid": "6183cb7b6636457360cf8b3e"
+  },
+  "paper_id": {
+    "$oid": "6183816f6636457360cf8b19"
+  },
+  "topic_name": "BASIC CONCEPTS OF DIFFERENTIAL CONCEPT",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  }
+},{
+  "_id": {
+    "$oid": "6183cb7b6636457360cf8b3f"
+  },
+  "paper_id": {
+    "$oid": "6183816f6636457360cf8b19"
+  },
+  "topic_name": "SCEOND ORDER LINEAR EQUATION",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  }
+},{
+  "_id": {
+    "$oid": "6183cb7b6636457360cf8b40"
+  },
+  "paper_id": {
+    "$oid": "6183816f6636457360cf8b19"
+  },
+  "topic_name": "POWER SERIES SOLUTION OF 2nd ORDER DIFFERENTIAL EQUATION",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  }
+},{
+  "_id": {
+    "$oid": "6183cb7b6636457360cf8b41"
+  },
+  "paper_id": {
+    "$oid": "6183816f6636457360cf8b1a"
+  },
+  "topic_name": "LIMIT OF FUNCTION",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  }
+},{
+  "_id": {
+    "$oid": "6183cb7b6636457360cf8b42"
+  },
+  "paper_id": {
+    "$oid": "6183816f6636457360cf8b1a"
+  },
+  "topic_name": "DISCONTINUITY & KINDS OF DISCONTINUITY",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  }
+},{
+  "_id": {
+    "$oid": "6183cb7b6636457360cf8b43"
+  },
+  "paper_id": {
+    "$oid": "6183816f6636457360cf8b1a"
+  },
+  "topic_name": "MEAN VALUE CONDITIONS",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  }
+},{
+  "_id": {
+    "$oid": "6183cb7b6636457360cf8b44"
+  },
+  "paper_id": {
+    "$oid": "6183816f6636457360cf8b1a"
+  },
+  "topic_name": "MAXIMA & MINIMA",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  }
+},{
+  "_id": {
+    "$oid": "6183cb7b6636457360cf8b45"
+  },
+  "paper_id": {
+    "$oid": "6183816f6636457360cf8b1b"
+  },
+  "topic_name": "SYMMETRIES OF A SQUARE",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  }
+},{
+  "_id": {
+    "$oid": "6183cb7b6636457360cf8b46"
+  },
+  "paper_id": {
+    "$oid": "6183816f6636457360cf8b1b"
+  },
+  "topic_name": "PROPERTIES OF CYCLIC GROUP",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  }
+},{
+  "_id": {
+    "$oid": "6183cb7b6636457360cf8b47"
+  },
+  "paper_id": {
+    "$oid": "6183816f6636457360cf8b1b"
+  },
+  "topic_name": "EXTERNAL DIRECT PRODUCT OF A FINIK NUMBER OF A GROUPS",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  }
+},{
+  "_id": {
+    "$oid": "6183cb7b6636457360cf8b48"
+  },
+  "paper_id": {
+    "$oid": "6183816f6636457360cf8b1b"
+  },
+  "topic_name": "GROUP HOMOMORPHISM",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  }
+},{
+  "_id": {
+    "$oid": "6183cb7b6636457360cf8b49"
+  },
+  "paper_id": {
+    "$oid": "6183816f6636457360cf8b1c"
+  },
+  "topic_name": "SYSTEMS OF LINEAR DIFFERENTIAL EQUATIONS",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  }
+},{
+  "_id": {
+    "$oid": "6183cb7b6636457360cf8b4a"
+  },
+  "paper_id": {
+    "$oid": "6183816f6636457360cf8b1c"
+  },
+  "topic_name": "FORMATION OF FIRST ORDER PARTIAL DIFFERENTIAL EQUATIONS",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  }
+},{
+  "_id": {
+    "$oid": "6183cb7b6636457360cf8b4b"
+  },
+  "paper_id": {
+    "$oid": "6183816f6636457360cf8b1c"
+  },
+  "topic_name": "LINEAR PARTIAL DIFFERENTIAL EQUATIONS WITH CONSTANT CO-EFFICIENTS",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  }
+},{
+  "_id": {
+    "$oid": "6183cb7b6636457360cf8b4c"
+  },
+  "paper_id": {
+    "$oid": "6183816f6636457360cf8b1c"
+  },
+  "topic_name": "LAPLACE EQUATION",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  }
+},{
+  "_id": {
+    "$oid": "6183cb7b6636457360cf8b4d"
+  },
+  "paper_id": {
+    "$oid": "6183816f6636457360cf8b1d"
+  },
+  "topic_name": "RATE OF CONVERGENCE",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  }
+},{
+  "_id": {
+    "$oid": "6183cb7b6636457360cf8b4e"
+  },
+  "paper_id": {
+    "$oid": "6183816f6636457360cf8b1d"
+  },
+  "topic_name": "SYSTEM OF LINEAR EQUATIONS",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  }
+},{
+  "_id": {
+    "$oid": "6183cb7b6636457360cf8b4f"
+  },
+  "paper_id": {
+    "$oid": "6183816f6636457360cf8b1d"
+  },
+  "topic_name": "POLYNOMIAL INTERPOLATION",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  }
+},{
+  "_id": {
+    "$oid": "6183cb7b6636457360cf8b50"
+  },
+  "paper_id": {
+    "$oid": "6183816f6636457360cf8b1d"
+  },
+  "topic_name": "NUMERICAL INTEGRATION",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  }
+},{
+  "_id": {
+    "$oid": "6183cb7b6636457360cf8b51"
+  },
+  "paper_id": {
+    "$oid": "6183816f6636457360cf8b1e"
+  },
+  "topic_name": "RIEMANN INTEGRATION",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  }
+},{
+  "_id": {
+    "$oid": "6183cb7b6636457360cf8b52"
+  },
+  "paper_id": {
+    "$oid": "6183816f6636457360cf8b1e"
+  },
+  "topic_name": "IMPROPER INTEGRALS",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  }
+},{
+  "_id": {
+    "$oid": "6183cb7b6636457360cf8b53"
+  },
+  "paper_id": {
+    "$oid": "6183816f6636457360cf8b1e"
+  },
+  "topic_name": "POINT-WISE AND UNIFORM CONVERGENCE",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  }
+},{
+  "_id": {
+    "$oid": "6183cb7b6636457360cf8b54"
+  },
+  "paper_id": {
+    "$oid": "6183816f6636457360cf8b1e"
+  },
+  "topic_name": "POWER SERIES",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  }
+},{
+  "_id": {
+    "$oid": "6183cb7b6636457360cf8b55"
+  },
+  "paper_id": {
+    "$oid": "6183816f6636457360cf8b1f"
+  },
+  "topic_name": "DEFINITION AND EXAMPLES OF RINGS",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  }
+},{
+  "_id": {
+    "$oid": "6183cb7b6636457360cf8b56"
+  },
+  "paper_id": {
+    "$oid": "6183816f6636457360cf8b1f"
+  },
+  "topic_name": "RING HOMOMORPHISMS",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  }
+},{
+  "_id": {
+    "$oid": "6183cb7b6636457360cf8b57"
+  },
+  "paper_id": {
+    "$oid": "6183816f6636457360cf8b1f"
+  },
+  "topic_name": "VECTOR SPACES",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  }
+},{
+  "_id": {
+    "$oid": "6183cb7b6636457360cf8b58"
+  },
+  "paper_id": {
+    "$oid": "6183816f6636457360cf8b1f"
+  },
+  "topic_name": "LINEAR TRANSFORMATIONS",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  }
+},{
+  "_id": {
+    "$oid": "6183cb7b6636457360cf8b59"
+  },
+  "paper_id": {
+    "$oid": "6183816f6636457360cf8b20"
+  },
+  "topic_name": "FUNCTIONS OF SEVERAL VARIABLES",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  }
+},{
+  "_id": {
+    "$oid": "6183cb7b6636457360cf8b5a"
+  },
+  "paper_id": {
+    "$oid": "6183816f6636457360cf8b20"
+  },
+  "topic_name": "DIRECTIONAL DERIVATIVES",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  }
+},{
+  "_id": {
+    "$oid": "6183cb7b6636457360cf8b5b"
+  },
+  "paper_id": {
+    "$oid": "6183816f6636457360cf8b20"
+  },
+  "topic_name": "DOUBLE INTEGRATION",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  }
+},{
+  "_id": {
+    "$oid": "6183cb7b6636457360cf8b5c"
+  },
+  "paper_id": {
+    "$oid": "6183816f6636457360cf8b20"
+  },
+  "topic_name": "VECTOR FIELD",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  }
+},{
+  "_id": {
+    "$oid": "6183cb7b6636457360cf8b5d"
+  },
+  "paper_id": {
+    "$oid": "6183816f6636457360cf8b21"
+  },
+  "topic_name": "SAMPLE SPACE",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  }
+},{
+  "_id": {
+    "$oid": "6183cb7b6636457360cf8b5e"
+  },
+  "paper_id": {
+    "$oid": "6183816f6636457360cf8b21"
+  },
+  "topic_name": "MULTIVARIATE DISTRIBUTIONS",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  }
+},{
+  "_id": {
+    "$oid": "6183cb7b6636457360cf8b5f"
+  },
+  "paper_id": {
+    "$oid": "6183816f6636457360cf8b21"
+  },
+  "topic_name": "SOME PROBABILITY DISTRIBUTIONS",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  }
+},{
+  "_id": {
+    "$oid": "6183cb7b6636457360cf8b60"
+  },
+  "paper_id": {
+    "$oid": "6183816f6636457360cf8b21"
+  },
+  "topic_name": "DISTRIBUTION OF TWO RANDOM VARIABLES",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  }
+},{
+  "_id": {
+    "$oid": "6183cb7b6636457360cf8b61"
+  },
+  "paper_id": {
+    "$oid": "6183816f6636457360cf8b21"
+  },
+  "topic_name": "LIMIT THEOREMS",
+  "topic_code": "U5",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  }
+},{
+  "_id": {
+    "$oid": "6183cb7b6636457360cf8b62"
+  },
+  "paper_id": {
+    "$oid": "6183816f6636457360cf8b22"
+  },
+  "topic_name": "METRIC SPACES",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  }
+},{
+  "_id": {
+    "$oid": "6183cb7b6636457360cf8b63"
+  },
+  "paper_id": {
+    "$oid": "6183816f6636457360cf8b22"
+  },
+  "topic_name": "CONTINOUS FUNCTIONS",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  }
+},{
+  "_id": {
+    "$oid": "6183cb7b6636457360cf8b64"
+  },
+  "paper_id": {
+    "$oid": "6183816f6636457360cf8b22"
+  },
+  "topic_name": "PROPERTIES OF COMPLEX NUMBERS",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  }
+},{
+  "_id": {
+    "$oid": "6183cb7b6636457360cf8b65"
+  },
+  "paper_id": {
+    "$oid": "6183816f6636457360cf8b22"
+  },
+  "topic_name": "EXPONENTIAL FUNCTION",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  }
+},{
+  "_id": {
+    "$oid": "6183cb7b6636457360cf8b66"
+  },
+  "paper_id": {
+    "$oid": "6183816f6636457360cf8b22"
+  },
+  "topic_name": "LIOUVILLES THEOREM",
+  "topic_code": "U5",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  }
+},{
+  "_id": {
+    "$oid": "6183cb7b6636457360cf8b67"
+  },
+  "paper_id": {
+    "$oid": "6183816f6636457360cf8b23"
+  },
+  "topic_name": "INTRODUCTION TO LINEAR PROGRAMMING PROBLEMS",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  }
+},{
+  "_id": {
+    "$oid": "6183cb7b6636457360cf8b68"
+  },
+  "paper_id": {
+    "$oid": "6183816f6636457360cf8b23"
+  },
+  "topic_name": "THEORY OF SIMPLEX METHOD",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  }
+},{
+  "_id": {
+    "$oid": "6183cb7b6636457360cf8b69"
+  },
+  "paper_id": {
+    "$oid": "6183816f6636457360cf8b23"
+  },
+  "topic_name": "DUALITY IN LPP",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  }
+},{
+  "_id": {
+    "$oid": "6183cb7b6636457360cf8b6a"
+  },
+  "paper_id": {
+    "$oid": "6183816f6636457360cf8b23"
+  },
+  "topic_name": "TRANSPORTATION PROBLEM(TP)",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  }
+},{
+  "_id": {
+    "$oid": "6183cb7b6636457360cf8b6b"
+  },
+  "paper_id": {
+    "$oid": "6183816f6636457360cf8b23"
+  },
+  "topic_name": "GAMES AND STRATEGIES",
+  "topic_code": "U5",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45fea9"
+  }
+},{
+  "_id": {
+    "$oid": "6183d1736636457360cf8b84"
+  },
+  "paper_id": {
+    "$oid": "6183ccf36636457360cf8b74"
+  },
+  "topic_name": "CALCULUS, VECTOR CALCULUS",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feaa"
+  }
+},{
+  "_id": {
+    "$oid": "6183d1736636457360cf8b85"
+  },
+  "paper_id": {
+    "$oid": "6183ccf36636457360cf8b74"
+  },
+  "topic_name": "ORTHOGONAL CURVILINEAR COORDINATES,DIRACDELTA FUNCTION AND ITS PROPERTIES",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feaa"
+  }
+},{
+  "_id": {
+    "$oid": "6183d1736636457360cf8b86"
+  },
+  "paper_id": {
+    "$oid": "6183ccf36636457360cf8b74"
+  },
+  "topic_name": "VECTOR DIFFERENTIATION",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feaa"
+  }
+},{
+  "_id": {
+    "$oid": "6183d1736636457360cf8b87"
+  },
+  "paper_id": {
+    "$oid": "6183ccf36636457360cf8b74"
+  },
+  "topic_name": "VECTOR INTEGRATION",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feaa"
+  }
+},{
+  "_id": {
+    "$oid": "6183d1736636457360cf8b88"
+  },
+  "paper_id": {
+    "$oid": "6183ccf36636457360cf8b75"
+  },
+  "topic_name": "ROTATIONAL DYNAMICS,NON-INERTIAL SYSTEMS",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feaa"
+  }
+},{
+  "_id": {
+    "$oid": "6183d1736636457360cf8b89"
+  },
+  "paper_id": {
+    "$oid": "6183ccf36636457360cf8b75"
+  },
+  "topic_name": "ELASTICITY,FLUID MOTION,OSCILLATIONS",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feaa"
+  }
+},{
+  "_id": {
+    "$oid": "6183d1736636457360cf8b8a"
+  },
+  "paper_id": {
+    "$oid": "6183ccf36636457360cf8b75"
+  },
+  "topic_name": "GRAVITATION AND CENTRAL FORCE MOTION",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feaa"
+  }
+},{
+  "_id": {
+    "$oid": "6183d1736636457360cf8b8b"
+  },
+  "paper_id": {
+    "$oid": "6183ccf36636457360cf8b75"
+  },
+  "topic_name": "SPECIAL THEORY OF RELATIVITY",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feaa"
+  }
+},{
+  "_id": {
+    "$oid": "6183d1736636457360cf8b8c"
+  },
+  "paper_id": {
+    "$oid": "6183ccf36636457360cf8b76"
+  },
+  "topic_name": "ELECTRIC FIELD AND ELECTRIC POTENTIAL",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feaa"
+  }
+},{
+  "_id": {
+    "$oid": "6183d1736636457360cf8b8d"
+  },
+  "paper_id": {
+    "$oid": "6183ccf36636457360cf8b76"
+  },
+  "topic_name": "MAGNETIC FIELD",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feaa"
+  }
+},{
+  "_id": {
+    "$oid": "6183d1736636457360cf8b8e"
+  },
+  "paper_id": {
+    "$oid": "6183ccf36636457360cf8b76"
+  },
+  "topic_name": "DIELECTRIC PROPERTIES OF MATTER,MAGNETIC PROPERTIES OF MATTER,ELECTRO MAGNETIC INDUCTION",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feaa"
+  }
+},{
+  "_id": {
+    "$oid": "6183d1736636457360cf8b8f"
+  },
+  "paper_id": {
+    "$oid": "6183ccf36636457360cf8b76"
+  },
+  "topic_name": "ELECTRICAL CIRCUITS,NETWORK THEOREMS",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feaa"
+  }
+},{
+  "_id": {
+    "$oid": "6183d1736636457360cf8b90"
+  },
+  "paper_id": {
+    "$oid": "6183ccf36636457360cf8b77"
+  },
+  "topic_name": "GEOMETRICAL OPTICS,WAVE OPTICS",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feaa"
+  }
+},{
+  "_id": {
+    "$oid": "6183d1736636457360cf8b91"
+  },
+  "paper_id": {
+    "$oid": "6183ccf36636457360cf8b77"
+  },
+  "topic_name": "WAVE MOTION,SUPER-POSITION OF TWO PERPENDICULAR HARMONIC OSCILLATIONS",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feaa"
+  }
+},{
+  "_id": {
+    "$oid": "6183d1736636457360cf8b92"
+  },
+  "paper_id": {
+    "$oid": "6183ccf36636457360cf8b77"
+  },
+  "topic_name": "INTERFERENCE,INTERFEROMETER",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feaa"
+  }
+},{
+  "_id": {
+    "$oid": "6183d1736636457360cf8b93"
+  },
+  "paper_id": {
+    "$oid": "6183ccf36636457360cf8b77"
+  },
+  "topic_name": "FRAUNHOFER DIFFRACTION,FRESNEL DIFFRACTION",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feaa"
+  }
+},{
+  "_id": {
+    "$oid": "6183d1736636457360cf8b94"
+  },
+  "paper_id": {
+    "$oid": "6183ccf36636457360cf8b78"
+  },
+  "topic_name": "FOURIER SERIES",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feaa"
+  }
+},{
+  "_id": {
+    "$oid": "6183d1736636457360cf8b95"
+  },
+  "paper_id": {
+    "$oid": "6183ccf36636457360cf8b78"
+  },
+  "topic_name": "FROBENIUS METHOD AND SPECIAL FUNCTIONS",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feaa"
+  }
+},{
+  "_id": {
+    "$oid": "6183d1736636457360cf8b96"
+  },
+  "paper_id": {
+    "$oid": "6183ccf36636457360cf8b78"
+  },
+  "topic_name": "PARTIAL DIFFERENTIAL EQUATIONS",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feaa"
+  }
+},{
+  "_id": {
+    "$oid": "6183d1736636457360cf8b97"
+  },
+  "paper_id": {
+    "$oid": "6183ccf36636457360cf8b79"
+  },
+  "topic_name": "INTRODUCTION TO THERMODYNAMICS,ENTROPY",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feaa"
+  }
+},{
+  "_id": {
+    "$oid": "6183d1736636457360cf8b98"
+  },
+  "paper_id": {
+    "$oid": "6183ccf36636457360cf8b79"
+  },
+  "topic_name": "THERMODYNAMIC POTENTIALS, MAXWELLS THERMODYNAMIC RELATIONS",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feaa"
+  }
+},{
+  "_id": {
+    "$oid": "6183d1736636457360cf8b99"
+  },
+  "paper_id": {
+    "$oid": "6183ccf36636457360cf8b79"
+  },
+  "topic_name": "KINETIC THEORY OF GASES, MOLECULAR COLLISIONS",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feaa"
+  }
+},{
+  "_id": {
+    "$oid": "6183d1736636457360cf8b9a"
+  },
+  "paper_id": {
+    "$oid": "6183ccf36636457360cf8b79"
+  },
+  "topic_name": "REAL GASES",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feaa"
+  }
+},{
+  "_id": {
+    "$oid": "6183d1736636457360cf8b9b"
+  },
+  "paper_id": {
+    "$oid": "6183ccf36636457360cf8b7a"
+  },
+  "topic_name": "DIGITAL CIRCUITS, BOOLEAN ALGEBRA",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feaa"
+  }
+},{
+  "_id": {
+    "$oid": "6183d1736636457360cf8b9c"
+  },
+  "paper_id": {
+    "$oid": "6183ccf36636457360cf8b7a"
+  },
+  "topic_name": "DATA PROCESSING CIRCUITS, AIRTHEMATIC CIRCUITS, TIMERS",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feaa"
+  }
+},{
+  "_id": {
+    "$oid": "6183d1736636457360cf8b9d"
+  },
+  "paper_id": {
+    "$oid": "6183ccf36636457360cf8b7a"
+  },
+  "topic_name": "INTEGRATED CIRCUITS, INTRODUCTION TO CRO",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feaa"
+  }
+},{
+  "_id": {
+    "$oid": "6183d1736636457360cf8b9e"
+  },
+  "paper_id": {
+    "$oid": "6183ccf36636457360cf8b7a"
+  },
+  "topic_name": "INTRODUCTION TO COMPUTER ORGANIZATION, SHIFT REGISTERS, COUNTERS",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feaa"
+  }
+},{
+  "_id": {
+    "$oid": "6183d1736636457360cf8b9f"
+  },
+  "paper_id": {
+    "$oid": "6183ccf36636457360cf8b7b"
+  },
+  "topic_name": "MATHEMATICAL PHYSICS-III",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feaa"
+  }
+},{
+  "_id": {
+    "$oid": "6183d1736636457360cf8ba0"
+  },
+  "paper_id": {
+    "$oid": "6183ccf36636457360cf8b7b"
+  },
+  "topic_name": "INTEGRALS TRANSFORMS",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feaa"
+  }
+},{
+  "_id": {
+    "$oid": "6183d1736636457360cf8ba1"
+  },
+  "paper_id": {
+    "$oid": "6183ccf36636457360cf8b7b"
+  },
+  "topic_name": "INTEGRALS TRANSFORMS",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feaa"
+  }
+},{
+  "_id": {
+    "$oid": "6183d1736636457360cf8ba2"
+  },
+  "paper_id": {
+    "$oid": "6183ccf36636457360cf8b7b"
+  },
+  "topic_name": "LAPLACE TRANSFORMS",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feaa"
+  }
+},{
+  "_id": {
+    "$oid": "6183d1736636457360cf8ba3"
+  },
+  "paper_id": {
+    "$oid": "6183ccf36636457360cf8b7c"
+  },
+  "topic_name": "ATOMIC SPECTRA AND MODELS",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feaa"
+  }
+},{
+  "_id": {
+    "$oid": "6183d1736636457360cf8ba4"
+  },
+  "paper_id": {
+    "$oid": "6183ccf36636457360cf8b7c"
+  },
+  "topic_name": "WAVE PARTICLE DUALITY",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feaa"
+  }
+},{
+  "_id": {
+    "$oid": "6183d1736636457360cf8ba5"
+  },
+  "paper_id": {
+    "$oid": "6183ccf36636457360cf8b7c"
+  },
+  "topic_name": "NUCLEAR PHYSICS",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feaa"
+  }
+},{
+  "_id": {
+    "$oid": "6183d1736636457360cf8ba6"
+  },
+  "paper_id": {
+    "$oid": "6183ccf36636457360cf8b7c"
+  },
+  "topic_name": "ALPHA DECAY, FISSION AND FUSION",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feaa"
+  }
+},{
+  "_id": {
+    "$oid": "6183d1736636457360cf8ba7"
+  },
+  "paper_id": {
+    "$oid": "6183ccf36636457360cf8b7d"
+  },
+  "topic_name": "SEMICONDUCTOR DIODES, TWO-TERMINAL DEVICES AND THEIR APPLICATIONS",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feaa"
+  }
+},{
+  "_id": {
+    "$oid": "6183d1736636457360cf8ba8"
+  },
+  "paper_id": {
+    "$oid": "6183ccf36636457360cf8b7d"
+  },
+  "topic_name": "BIPOLAR JUNCTION TRANSISTERS, AMPLIFIERS",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feaa"
+  }
+},{
+  "_id": {
+    "$oid": "6183d1736636457360cf8ba9"
+  },
+  "paper_id": {
+    "$oid": "6183ccf36636457360cf8b7d"
+  },
+  "topic_name": "COUPLED AMPLIFIER, SINUSOIDAL OSCILLATORS",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feaa"
+  }
+},{
+  "_id": {
+    "$oid": "6183d1736636457360cf8baa"
+  },
+  "paper_id": {
+    "$oid": "6183ccf36636457360cf8b7d"
+  },
+  "topic_name": "OPERATIONAL AMPLIFIERS, SINUSOIDAL OSCILLATORS",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feaa"
+  }
+},{
+  "_id": {
+    "$oid": "6183d1736636457360cf8bab"
+  },
+  "paper_id": {
+    "$oid": "6183ccf36636457360cf8b7e"
+  },
+  "topic_name": "SCHRODINGER EQUATION & THE OPERATORS",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feaa"
+  }
+},{
+  "_id": {
+    "$oid": "6183d1736636457360cf8bac"
+  },
+  "paper_id": {
+    "$oid": "6183ccf36636457360cf8b7e"
+  },
+  "topic_name": "TIME INDEPENDENT SCHRODINGER EQUATION",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feaa"
+  }
+},{
+  "_id": {
+    "$oid": "6183d1736636457360cf8bad"
+  },
+  "paper_id": {
+    "$oid": "6183ccf36636457360cf8b7e"
+  },
+  "topic_name": "GENERAL DISCUSSION OF BOUND STATES IN AN ARBITARY POTENTIAL",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feaa"
+  }
+},{
+  "_id": {
+    "$oid": "6183d1736636457360cf8bae"
+  },
+  "paper_id": {
+    "$oid": "6183ccf36636457360cf8b7e"
+  },
+  "topic_name": "ATOMS IN ELECTRIC & MAGNETIC FIELDS, ATOMS IN EXTERNAL MAGNETIC FIELDS",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feaa"
+  }
+},{
+  "_id": {
+    "$oid": "6183d1736636457360cf8baf"
+  },
+  "paper_id": {
+    "$oid": "6183ccf36636457360cf8b7f"
+  },
+  "topic_name": "CRYSTAL STRUCTURE",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feaa"
+  }
+},{
+  "_id": {
+    "$oid": "6183d1736636457360cf8bb0"
+  },
+  "paper_id": {
+    "$oid": "6183ccf36636457360cf8b7f"
+  },
+  "topic_name": "ELEMENTARY LATTICE DYNAMICS, MAGNETIC PROPERTIES OF MATTER",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feaa"
+  }
+},{
+  "_id": {
+    "$oid": "6183d1736636457360cf8bb1"
+  },
+  "paper_id": {
+    "$oid": "6183ccf36636457360cf8b7f"
+  },
+  "topic_name": "DIELECTRIC PROPERTIES OF MATERIALS, LASERS",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feaa"
+  }
+},{
+  "_id": {
+    "$oid": "6183d1736636457360cf8bb2"
+  },
+  "paper_id": {
+    "$oid": "6183ccf36636457360cf8b7f"
+  },
+  "topic_name": "ELEMENTARY BAND THEORY, SUPERCONDUCTIVITY",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feaa"
+  }
+},{
+  "_id": {
+    "$oid": "6183d1736636457360cf8bb3"
+  },
+  "paper_id": {
+    "$oid": "6183ccf36636457360cf8b80"
+  },
+  "topic_name": "MAXWELL EQUATION",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feaa"
+  }
+},{
+  "_id": {
+    "$oid": "6183d1736636457360cf8bb4"
+  },
+  "paper_id": {
+    "$oid": "6183ccf36636457360cf8b80"
+  },
+  "topic_name": "EM WAVE PROPAGATION IN UNBOUNDED MEDIA",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feaa"
+  }
+},{
+  "_id": {
+    "$oid": "6183d1736636457360cf8bb5"
+  },
+  "paper_id": {
+    "$oid": "6183ccf36636457360cf8b80"
+  },
+  "topic_name": "EM WAVE IN BOUNDED MEDIA, OPTICAL FIBRES",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feaa"
+  }
+},{
+  "_id": {
+    "$oid": "6183d1736636457360cf8bb6"
+  },
+  "paper_id": {
+    "$oid": "6183ccf36636457360cf8b80"
+  },
+  "topic_name": "POLARIZATION OF ELECTROMAGNETIC WAVES, ROTATORY POLARIZATION",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feaa"
+  }
+},{
+  "_id": {
+    "$oid": "6183d1736636457360cf8bb7"
+  },
+  "paper_id": {
+    "$oid": "6183ccf36636457360cf8b80"
+  },
+  "topic_name": "LIOUVILLES THEOREM",
+  "topic_code": "U5",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feaa"
+  }
+},{
+  "_id": {
+    "$oid": "6183d1736636457360cf8bb8"
+  },
+  "paper_id": {
+    "$oid": "6183ccf36636457360cf8b81"
+  },
+  "topic_name": "CLASSICAL STATISTICS",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feaa"
+  }
+},{
+  "_id": {
+    "$oid": "6183d1736636457360cf8bb9"
+  },
+  "paper_id": {
+    "$oid": "6183ccf36636457360cf8b81"
+  },
+  "topic_name": "GIBBS PARADOX, SACKUR TETRODE EQUATION",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feaa"
+  }
+},{
+  "_id": {
+    "$oid": "6183d1736636457360cf8bba"
+  },
+  "paper_id": {
+    "$oid": "6183ccf36636457360cf8b81"
+  },
+  "topic_name": "RADIATION",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feaa"
+  }
+},{
+  "_id": {
+    "$oid": "6183d1736636457360cf8bbb"
+  },
+  "paper_id": {
+    "$oid": "6183ccf36636457360cf8b81"
+  },
+  "topic_name": "QUANTUM STATISTICS",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feaa"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8c73"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c0d"
+  },
+  "topic_name": "GENERAL GEOLOGY-A",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8c74"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c0d"
+  },
+  "topic_name": "GENERAL GEOLOGY-B",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8c75"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c0d"
+  },
+  "topic_name": "GEOMORPHOLOGY-A",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8c76"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c0d"
+  },
+  "topic_name": "GEOMORPHOLOGY-B",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8c77"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c0d"
+  },
+  "topic_name": "QUATERNARY GEOLOGY",
+  "topic_code": "U5",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8c78"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c0e"
+  },
+  "topic_name": "GEOTECTONICS-A",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8c79"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c0e"
+  },
+  "topic_name": "GEOTECTONICS-B",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8c7a"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c0e"
+  },
+  "topic_name": "PHOTOGEOLOGY",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8c7b"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c0e"
+  },
+  "topic_name": "REMOTE SENSING",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8c7c"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c0e"
+  },
+  "topic_name": "MARINE GEOLOGY",
+  "topic_code": "U5",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8c7d"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c0f"
+  },
+  "topic_name": "CRYSTALLOGRAPHY-A",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8c7e"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c0f"
+  },
+  "topic_name": "CRYSTALLOGRAPHY-B",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8c7f"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c0f"
+  },
+  "topic_name": "MINERALOGY-A",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8c80"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c0f"
+  },
+  "topic_name": "MINERALOGY-B",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8c81"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c0f"
+  },
+  "topic_name": "MINERALOGY-C",
+  "topic_code": "U5",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8c82"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c10"
+  },
+  "topic_name": "MINERAL OPTICS-A",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8c83"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c10"
+  },
+  "topic_name": "MINERAL OPTICS-B",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8c84"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c10"
+  },
+  "topic_name": "MINERAL OPTICS-C",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8c85"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c10"
+  },
+  "topic_name": "GEOCHEMISTRY-A",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8c86"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c10"
+  },
+  "topic_name": "GEOCHEMISTRY-B",
+  "topic_code": "U5",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8c87"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c11"
+  },
+  "topic_name": "IGNEOUS PETROLOGY-A",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8c88"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c11"
+  },
+  "topic_name": "IGNEOUS PETROLOGY-B",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8c89"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c11"
+  },
+  "topic_name": "IGNEOUS PETROLOGY-C",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8c8a"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c11"
+  },
+  "topic_name": "IGNEOUS PETROLOGY-D",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8c8b"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c11"
+  },
+  "topic_name": "IGNEOUS PETROLOGY-E",
+  "topic_code": "U5",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8c8c"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c12"
+  },
+  "topic_name": "SEDIMENTARY PETROLOGY-A",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8c8d"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c12"
+  },
+  "topic_name": "SEDIMENTARY PETROLOGY-B",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8c8e"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c12"
+  },
+  "topic_name": "SEDIMENTARY PETROLOGY-C",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8c8f"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c12"
+  },
+  "topic_name": "SEDIMENTARY PETROLOGY-D",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8c90"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c12"
+  },
+  "topic_name": "SEDIMENTARY PETROLOGY-E",
+  "topic_code": "U5",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8c91"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c13"
+  },
+  "topic_name": "METAMORPHIC PETROLOGY-A",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8c92"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c13"
+  },
+  "topic_name": "METAMORPHIC PETROLOGY-B",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8c93"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c13"
+  },
+  "topic_name": "METAMORPHIC PETROLOGY-C",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8c94"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c13"
+  },
+  "topic_name": "METAMORPHIC PETROLOGY-D",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8c95"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c13"
+  },
+  "topic_name": "METAMORPHIC PETROLOGY-E",
+  "topic_code": "U5",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8c96"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c14"
+  },
+  "topic_name": "PALAEONTOLOGY-A",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8c97"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c14"
+  },
+  "topic_name": "PALAEONTOLOGY-B",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8c98"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c14"
+  },
+  "topic_name": "PALAEONTOLOGY-C",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8c99"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c14"
+  },
+  "topic_name": "PALAEOBOTANY",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8c9a"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c14"
+  },
+  "topic_name": "PALYNOLOGY",
+  "topic_code": "U5",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8c9b"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c15"
+  },
+  "topic_name": "STRATIGRAPHY-A",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8c9c"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c15"
+  },
+  "topic_name": "STRATIGRAPHY-B",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8c9d"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c15"
+  },
+  "topic_name": "STRATIGRAPHY-C",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8c9e"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c15"
+  },
+  "topic_name": "STRATIGRAPHY-D",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8c9f"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c15"
+  },
+  "topic_name": "PALAEGEOGRAPHY",
+  "topic_code": "U5",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8ca0"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c16"
+  },
+  "topic_name": "STRUCTURAL GEOLOGY-A",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8ca1"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c16"
+  },
+  "topic_name": "STRUCTURAL GEOLOGY-B",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8ca2"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c16"
+  },
+  "topic_name": "STRUCTURAL GEOLOGY-C",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8ca3"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c16"
+  },
+  "topic_name": "STRUCTURAL GEOLOGY-D",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8ca4"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c16"
+  },
+  "topic_name": "STRUCTURAL GEOLOGY-E",
+  "topic_code": "U5",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8ca5"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c17"
+  },
+  "topic_name": "ORE GENESIS-A",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8ca6"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c17"
+  },
+  "topic_name": "ORE GENESIS-B",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8ca7"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c17"
+  },
+  "topic_name": "ORE GENESIS-C",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8ca8"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c17"
+  },
+  "topic_name": "ENERGY RESOURCES",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8ca9"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c17"
+  },
+  "topic_name": "MINERAL ECONOMICS",
+  "topic_code": "U5",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8caa"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c18"
+  },
+  "topic_name": "MINERAL RESOURCES-A",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8cab"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c18"
+  },
+  "topic_name": "MINERAL RESOURCES-B",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8cac"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c18"
+  },
+  "topic_name": "MINERAL RESOURCES-C",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8cad"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c18"
+  },
+  "topic_name": "MINERAL RESOURCES-D",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8cae"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c18"
+  },
+  "topic_name": "MINERAL RESOURCES-E",
+  "topic_code": "U5",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8caf"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c19"
+  },
+  "topic_name": "GROUNDWATER-A",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8cb0"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c19"
+  },
+  "topic_name": "GROUNDWATER-B",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8cb1"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c19"
+  },
+  "topic_name": "ENGINEERING GEOLOGY-A",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8cb2"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c19"
+  },
+  "topic_name": "ENGINEERING GEOLOGY-B",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8cb3"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c19"
+  },
+  "topic_name": "EXPLORATION GEOLOGY",
+  "topic_code": "U5",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8cb4"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c1a"
+  },
+  "topic_name": "MINING",
+  "topic_code": "U1",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8cb5"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c1a"
+  },
+  "topic_name": "DISASTER MANAGEMENT",
+  "topic_code": "U2",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8cb6"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c1a"
+  },
+  "topic_name": "ENVIROMENTAL GEOLOGY-A",
+  "topic_code": "U3",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8cb7"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c1a"
+  },
+  "topic_name": "ENVIROMENTAL GEOLOGY-B",
+  "topic_code": "U4",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "6183ee9d6636457360cf8cb8"
+  },
+  "paper_id": {
+    "$oid": "6183dfc46636457360cf8c1a"
+  },
+  "topic_name": "RESOURCE EVALUATION",
+  "topic_code": "U5",
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feac"
+  }
+},{
+  "_id": {
+    "$oid": "618500d00f0a5590ef5562ae"
+  },
+  "paper_id": {
+    "$oid": "6183ed0c6636457360cf8c5f"
+  },
+  "topic_name": "ATOMIC STRUCTURE",
+  "topic_code": "U1",
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feab"
+  },
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  }
+},{
+  "_id": {
+    "$oid": "618500d00f0a5590ef5562af"
+  },
+  "paper_id": {
+    "$oid": "6183ed0c6636457360cf8c5f"
+  },
+  "topic_name": "PERIODICITY OF ELEMENTS",
+  "topic_code": "U2",
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feab"
+  },
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  }
+},{
+  "_id": {
+    "$oid": "618500d00f0a5590ef5562b0"
+  },
+  "paper_id": {
+    "$oid": "6183ed0c6636457360cf8c5f"
+  },
+  "topic_name": "CHEMICAL BONDING-I",
+  "topic_code": "U3",
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feab"
+  },
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  }
+},{
+  "_id": {
+    "$oid": "618500d00f0a5590ef5562b1"
+  },
+  "paper_id": {
+    "$oid": "6183ed0c6636457360cf8c5f"
+  },
+  "topic_name": "CHEMICAL BONDINGS-II",
+  "topic_code": "U4",
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feab"
+  },
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  }
+},{
+  "_id": {
+    "$oid": "618500d00f0a5590ef5562b2"
+  },
+  "paper_id": {
+    "$oid": "6183ed0d6636457360cf8c60"
+  },
+  "topic_name": "GASEOUS STRUCTURE",
+  "topic_code": "U1",
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feab"
+  },
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  }
+},{
+  "_id": {
+    "$oid": "618500d00f0a5590ef5562b3"
+  },
+  "paper_id": {
+    "$oid": "6183ed0d6636457360cf8c60"
+  },
+  "topic_name": "LIQUID STATE",
+  "topic_code": "U2",
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feab"
+  },
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  }
+},{
+  "_id": {
+    "$oid": "618500d00f0a5590ef5562b4"
+  },
+  "paper_id": {
+    "$oid": "6183ed0d6636457360cf8c60"
+  },
+  "topic_name": "SOLID STATE",
+  "topic_code": "U3",
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feab"
+  },
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  }
+},{
+  "_id": {
+    "$oid": "618500d00f0a5590ef5562b5"
+  },
+  "paper_id": {
+    "$oid": "6183ed0d6636457360cf8c60"
+  },
+  "topic_name": "IONIC EQUILIBRIUM-II",
+  "topic_code": "U4",
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feab"
+  },
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  }
+},{
+  "_id": {
+    "$oid": "618500d00f0a5590ef5562b6"
+  },
+  "paper_id": {
+    "$oid": "6183ed0d6636457360cf8c61"
+  },
+  "topic_name": "BASIC OF ORGANIC CHEMISTRY",
+  "topic_code": "U1",
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feab"
+  },
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  }
+},{
+  "_id": {
+    "$oid": "618500d00f0a5590ef5562b7"
+  },
+  "paper_id": {
+    "$oid": "6183ed0d6636457360cf8c61"
+  },
+  "topic_name": "STEREOCHEMISTRY",
+  "topic_code": "U2",
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feab"
+  },
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  }
+},{
+  "_id": {
+    "$oid": "618500d00f0a5590ef5562b8"
+  },
+  "paper_id": {
+    "$oid": "6183ed0d6636457360cf8c61"
+  },
+  "topic_name": "CHEMISTRY OF ALPHATIC HYDROCARBON",
+  "topic_code": "U3",
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feab"
+  },
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  }
+},{
+  "_id": {
+    "$oid": "618500d00f0a5590ef5562b9"
+  },
+  "paper_id": {
+    "$oid": "6183ed0d6636457360cf8c61"
+  },
+  "topic_name": "ATOMIC HYDROCARBON",
+  "topic_code": "U4",
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feab"
+  },
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  }
+},{
+  "_id": {
+    "$oid": "618500d00f0a5590ef5562ba"
+  },
+  "paper_id": {
+    "$oid": "6183ed0d6636457360cf8c62"
+  },
+  "topic_name": "CHEMICAL THERMODYNAMICS",
+  "topic_code": "U1",
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feab"
+  },
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  }
+},{
+  "_id": {
+    "$oid": "618500d00f0a5590ef5562bb"
+  },
+  "paper_id": {
+    "$oid": "6183ed0d6636457360cf8c62"
+  },
+  "topic_name": "SECOND LAW-CONCEPT OF ENTROPY",
+  "topic_code": "U2",
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feab"
+  },
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  }
+},{
+  "_id": {
+    "$oid": "618500d00f0a5590ef5562bc"
+  },
+  "paper_id": {
+    "$oid": "6183ed0d6636457360cf8c62"
+  },
+  "topic_name": "SOLUTION AND COLLIGATIVE PROPERTIES",
+  "topic_code": "U3",
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feab"
+  },
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  }
+},{
+  "_id": {
+    "$oid": "618500d00f0a5590ef5562bd"
+  },
+  "paper_id": {
+    "$oid": "6183ed0d6636457360cf8c63"
+  },
+  "topic_name": "GENERAL PRINCIPLES OF METALLURGY-ACID & BASE",
+  "topic_code": "U1",
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feab"
+  },
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  }
+},{
+  "_id": {
+    "$oid": "618500d00f0a5590ef5562be"
+  },
+  "paper_id": {
+    "$oid": "6183ed0d6636457360cf8c63"
+  },
+  "topic_name": "CHEMISTRY OF S & P BLOCK ELEMENTS-I",
+  "topic_code": "U2",
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feab"
+  },
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  }
+},{
+  "_id": {
+    "$oid": "618500d00f0a5590ef5562bf"
+  },
+  "paper_id": {
+    "$oid": "6183ed0d6636457360cf8c63"
+  },
+  "topic_name": "CHEMISTRY OF S & P BLOCK ELEMENTS-I",
+  "topic_code": "U3",
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feab"
+  },
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  }
+},{
+  "_id": {
+    "$oid": "618500d00f0a5590ef5562c0"
+  },
+  "paper_id": {
+    "$oid": "6183ed0d6636457360cf8c63"
+  },
+  "topic_name": "NOBLE GASES-INORGANIC POLYMERS",
+  "topic_code": "U4",
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feab"
+  },
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  }
+},{
+  "_id": {
+    "$oid": "618500d00f0a5590ef5562c1"
+  },
+  "paper_id": {
+    "$oid": "6183ed0d6636457360cf8c64"
+  },
+  "topic_name": "CHEMISTRY OF HALOGENATED HYDROCARBONS",
+  "topic_code": "U1",
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feab"
+  },
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  }
+},{
+  "_id": {
+    "$oid": "618500d00f0a5590ef5562c2"
+  },
+  "paper_id": {
+    "$oid": "6183ed0d6636457360cf8c64"
+  },
+  "topic_name": "ALCOHOLS,PHENOLS,ETHERS AND EPOXIDES",
+  "topic_code": "U2",
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feab"
+  },
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  }
+},{
+  "_id": {
+    "$oid": "618500d00f0a5590ef5562c3"
+  },
+  "paper_id": {
+    "$oid": "6183ed0d6636457360cf8c64"
+  },
+  "topic_name": "CARBONYL COMPOUNDS",
+  "topic_code": "U3",
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feab"
+  },
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  }
+},{
+  "_id": {
+    "$oid": "618500d00f0a5590ef5562c4"
+  },
+  "paper_id": {
+    "$oid": "6183ed0d6636457360cf8c64"
+  },
+  "topic_name": "CARBOXYLIC ACIDS AND THEIR DERIVATIVES",
+  "topic_code": "U4",
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feab"
+  },
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  }
+},{
+  "_id": {
+    "$oid": "618500d00f0a5590ef5562c5"
+  },
+  "paper_id": {
+    "$oid": "6183ed0d6636457360cf8c65"
+  },
+  "topic_name": "PHASE EQUILIBRIA-I",
+  "topic_code": "U1",
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feab"
+  },
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  }
+},{
+  "_id": {
+    "$oid": "618500d00f0a5590ef5562c6"
+  },
+  "paper_id": {
+    "$oid": "6183ed0d6636457360cf8c65"
+  },
+  "topic_name": "PHASE EQUILIBRIA-II",
+  "topic_code": "U2",
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feab"
+  },
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  }
+},{
+  "_id": {
+    "$oid": "618500d00f0a5590ef5562c7"
+  },
+  "paper_id": {
+    "$oid": "6183ed0d6636457360cf8c65"
+  },
+  "topic_name": "CHEMICAL KINETICS",
+  "topic_code": "U3",
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feab"
+  },
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  }
+},{
+  "_id": {
+    "$oid": "618500d00f0a5590ef5562c8"
+  },
+  "paper_id": {
+    "$oid": "6183ed0d6636457360cf8c65"
+  },
+  "topic_name": "CATALYSIS, SURFACE CHEMISTRY",
+  "topic_code": "U4",
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feab"
+  },
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  }
+},{
+  "_id": {
+    "$oid": "618500d00f0a5590ef5562c9"
+  },
+  "paper_id": {
+    "$oid": "6183ed0d6636457360cf8c66"
+  },
+  "topic_name": "COORDINATION CHEMISTRY",
+  "topic_code": "U1",
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feab"
+  },
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  }
+},{
+  "_id": {
+    "$oid": "618500d00f0a5590ef5562ca"
+  },
+  "paper_id": {
+    "$oid": "6183ed0d6636457360cf8c66"
+  },
+  "topic_name": "TRANSITION ELEMENTS-I",
+  "topic_code": "U2",
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feab"
+  },
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  }
+},{
+  "_id": {
+    "$oid": "618500d00f0a5590ef5562cb"
+  },
+  "paper_id": {
+    "$oid": "6183ed0d6636457360cf8c66"
+  },
+  "topic_name": "TRANSITION ELEMENTS-II",
+  "topic_code": "U3",
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feab"
+  },
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  }
+},{
+  "_id": {
+    "$oid": "618500d00f0a5590ef5562cc"
+  },
+  "paper_id": {
+    "$oid": "6183ed0d6636457360cf8c66"
+  },
+  "topic_name": "LANTHANOIDS AND ACTINOIDS, BIOINORGANIC CHEMISTRY",
+  "topic_code": "U4",
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feab"
+  },
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  }
+},{
+  "_id": {
+    "$oid": "618500d00f0a5590ef5562cd"
+  },
+  "paper_id": {
+    "$oid": "6183ed0d6636457360cf8c67"
+  },
+  "topic_name": "NITROGEN CONTAINING FUNCTIONAL GROUPS",
+  "topic_code": "U1",
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feab"
+  },
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  }
+},{
+  "_id": {
+    "$oid": "618500d00f0a5590ef5562ce"
+  },
+  "paper_id": {
+    "$oid": "6183ed0d6636457360cf8c67"
+  },
+  "topic_name": "DIAZONIUM SALTS, POLYNUCLEAR HYDROCARBONS",
+  "topic_code": "U2",
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feab"
+  },
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  }
+},{
+  "_id": {
+    "$oid": "618500d00f0a5590ef5562cf"
+  },
+  "paper_id": {
+    "$oid": "6183ed0d6636457360cf8c67"
+  },
+  "topic_name": "HETEROCYCLIC COMPOUNDS",
+  "topic_code": "U3",
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feab"
+  },
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  }
+},{
+  "_id": {
+    "$oid": "618500d00f0a5590ef5562d0"
+  },
+  "paper_id": {
+    "$oid": "6183ed0d6636457360cf8c67"
+  },
+  "topic_name": "ALKALOIDS",
+  "topic_code": "U4",
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feab"
+  },
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  }
+},{
+  "_id": {
+    "$oid": "618500d00f0a5590ef5562d1"
+  },
+  "paper_id": {
+    "$oid": "6183ed0d6636457360cf8c68"
+  },
+  "topic_name": "CONDUCTANCE-I",
+  "topic_code": "U1",
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feab"
+  },
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  }
+},{
+  "_id": {
+    "$oid": "618500d00f0a5590ef5562d2"
+  },
+  "paper_id": {
+    "$oid": "6183ed0d6636457360cf8c68"
+  },
+  "topic_name": "CONDUCTANCE-II",
+  "topic_code": "U2",
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feab"
+  },
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  }
+},{
+  "_id": {
+    "$oid": "618500d00f0a5590ef5562d3"
+  },
+  "paper_id": {
+    "$oid": "6183ed0d6636457360cf8c68"
+  },
+  "topic_name": "ELECTROCHEMISTRY-I",
+  "topic_code": "U3",
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feab"
+  },
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  }
+},{
+  "_id": {
+    "$oid": "618500d00f0a5590ef5562d4"
+  },
+  "paper_id": {
+    "$oid": "6183ed0d6636457360cf8c68"
+  },
+  "topic_name": "ELECTROCHEMISTRY-II",
+  "topic_code": "U4",
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feab"
+  },
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  }
+},{
+  "_id": {
+    "$oid": "618500d00f0a5590ef5562d5"
+  },
+  "paper_id": {
+    "$oid": "6183ed0d6636457360cf8c69"
+  },
+  "topic_name": "NUCLEIC ACIDS, ENZYMES",
+  "topic_code": "U1",
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feab"
+  },
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  }
+},{
+  "_id": {
+    "$oid": "618500d00f0a5590ef5562d6"
+  },
+  "paper_id": {
+    "$oid": "6183ed0d6636457360cf8c69"
+  },
+  "topic_name": "AMINO ACIDS, PEPTIDES AND PROTEINS",
+  "topic_code": "U2",
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feab"
+  },
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  }
+},{
+  "_id": {
+    "$oid": "618500d00f0a5590ef5562d7"
+  },
+  "paper_id": {
+    "$oid": "6183ed0d6636457360cf8c69"
+  },
+  "topic_name": "LIPIDS, CONCEPT OF ENERGY IN BIOSYSTEMS",
+  "topic_code": "U3",
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feab"
+  },
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  }
+},{
+  "_id": {
+    "$oid": "618500d00f0a5590ef5562d8"
+  },
+  "paper_id": {
+    "$oid": "6183ed0d6636457360cf8c6a"
+  },
+  "topic_name": "QUANTUM CHEMISTRY",
+  "topic_code": "U1",
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feab"
+  },
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  }
+},{
+  "_id": {
+    "$oid": "618500d00f0a5590ef5562d9"
+  },
+  "paper_id": {
+    "$oid": "6183ed0d6636457360cf8c6a"
+  },
+  "topic_name": "CHEMICAL BONDING",
+  "topic_code": "U2",
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feab"
+  },
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  }
+},{
+  "_id": {
+    "$oid": "618500d00f0a5590ef5562da"
+  },
+  "paper_id": {
+    "$oid": "6183ed0d6636457360cf8c6a"
+  },
+  "topic_name": "MOLECULAR SPECTROSCOPY-I",
+  "topic_code": "U3",
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feab"
+  },
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  }
+},{
+  "_id": {
+    "$oid": "618500d00f0a5590ef5562db"
+  },
+  "paper_id": {
+    "$oid": "6183ed0d6636457360cf8c6a"
+  },
+  "topic_name": "MOLECULAR SPECTROSCOPY-II, PHOTOCHEMISTRY",
+  "topic_code": "U4",
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feab"
+  },
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  }
+},{
+  "_id": {
+    "$oid": "618500d00f0a5590ef5562dc"
+  },
+  "paper_id": {
+    "$oid": "6183ed0d6636457360cf8c6b"
+  },
+  "topic_name": "ORGANOMETALLIC COMPOUNDS-I",
+  "topic_code": "U1",
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feab"
+  },
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  }
+},{
+  "_id": {
+    "$oid": "618500d00f0a5590ef5562dd"
+  },
+  "paper_id": {
+    "$oid": "6183ed0d6636457360cf8c6b"
+  },
+  "topic_name": "ORGANOMETALLIC COMPOUNDS-II",
+  "topic_code": "U2",
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feab"
+  },
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  }
+},{
+  "_id": {
+    "$oid": "618500d00f0a5590ef5562de"
+  },
+  "paper_id": {
+    "$oid": "6183ed0d6636457360cf8c6b"
+  },
+  "topic_name": "THEORITICAL PRINCIPLES IN QUALITATIVE ANALYSIS, CATALYSIS BY ORGANOMETALLIC COMPOUNDS",
+  "topic_code": "U3",
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feab"
+  },
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  }
+},{
+  "_id": {
+    "$oid": "618500d00f0a5590ef5562df"
+  },
+  "paper_id": {
+    "$oid": "6183ed0d6636457360cf8c6b"
+  },
+  "topic_name": "REACTION KINETICS AND MECHANISM",
+  "topic_code": "U4",
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feab"
+  },
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  }
+},{
+  "_id": {
+    "$oid": "618500d00f0a5590ef5562e0"
+  },
+  "paper_id": {
+    "$oid": "6183ed0d6636457360cf8c6b"
+  },
+  "topic_name": "PHARMACEUTICAL COMPOUNDS:STRUCTURE AND IMPORTANCE",
+  "topic_code": "U5",
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feab"
+  },
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  }
+},{
+  "_id": {
+    "$oid": "618500d00f0a5590ef5562e1"
+  },
+  "paper_id": {
+    "$oid": "6183ed0d6636457360cf8c6c"
+  },
+  "topic_name": "ORGANIC SPECTROSCOPY-I",
+  "topic_code": "U1",
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feab"
+  },
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  }
+},{
+  "_id": {
+    "$oid": "618500d00f0a5590ef5562e2"
+  },
+  "paper_id": {
+    "$oid": "6183ed0d6636457360cf8c6c"
+  },
+  "topic_name": "ORGANIC SPECTROSCOPY-II",
+  "topic_code": "U2",
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feab"
+  },
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  }
+},{
+  "_id": {
+    "$oid": "618500d00f0a5590ef5562e3"
+  },
+  "paper_id": {
+    "$oid": "6183ed0d6636457360cf8c6c"
+  },
+  "topic_name": "CARBOHYDRATES, DYES",
+  "topic_code": "U3",
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feab"
+  },
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  }
+},{
+  "_id": {
+    "$oid": "618500d00f0a5590ef5562e4"
+  },
+  "paper_id": {
+    "$oid": "6183ed0d6636457360cf8c6c"
+  },
+  "topic_name": "POLYMERS",
+  "topic_code": "U4",
+  "subject_id": {
+    "$oid": "6182d435a1f2496e7c45feab"
+  },
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  }
+}]

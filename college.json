@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "name": "UTKAL UNIVERSITY",
+  "type": "UNIVERSITY",
+  "state": "ODISHA",
+  "district": "KHORDA",
+  "city": "BHUBANESHWAR"
+}]

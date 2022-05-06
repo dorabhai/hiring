@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "6182d142a1f2496e7c45fea2"
+  },
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_name": "B.SC (Bachelor of Science)"
+},{
+  "_id": {
+    "$oid": "6182d142a1f2496e7c45fea3"
+  },
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_name": "B.COM (Bachelor of Commerce)"
+},{
+  "_id": {
+    "$oid": "6182d142a1f2496e7c45fea4"
+  },
+  "college_id": {
+    "$oid": "6182cc1779f72933115ed6ac"
+  },
+  "stream_name": "B.A (Bachelor of Arts)"
+}]
